@@ -1,4 +1,4 @@
-//app.js
+//app.js 分支问题1
 App({
   onLaunch: function () {
     // 展示本地存储能力
